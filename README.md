@@ -1,4 +1,4 @@
-# Leito de Frases
+# Leitor de Frases
 
 <p>
  Aplicativo desenvolvido com o intuito de colocar em pratica os conhecimentos em react native, com biblioteca expo e a expo Speech. Ele Gera uma frase de Machado de Assis então a pessoa pode escutar.
